@@ -1,0 +1,27 @@
+.container {
+  font-family: "Ubonto";
+}
+
+:root {
+  --primary-color: #b800e6;
+  --secondary-color: #ececec;
+  --dark-color: #000;
+  --light-color: #fff;
+}
+@font-face {
+  font-family: "Ubonto";
+  src: url(../assets/Itim-Ubuntu/Ubuntu/Ubuntu-Regular.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Ubonto";
+  src: url(../assets/Itim-Ubuntu/Ubuntu/Ubuntu-Medium.ttf);
+
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Ubonto";
+  src: url(../assets/Itim-Ubuntu/Ubuntu/Ubuntu-Bold.ttf);
+
+  font-weight: 900;
+}
